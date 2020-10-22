@@ -1,5 +1,14 @@
 # COPY 22.10.2020
 
+``` 
+    npm i
+    npm outdated
+    npm update
+    
+```
+
+
+
 -------------------
 
 # Prismic React Site Example
